@@ -10,8 +10,13 @@
 
 ## 🚀 About Me
 
-DevOps-focused Computer Science student who learns by building real systems.
-Interested in automation, cloud, and deployment workflows.
+I am a final year Computer Science student with a strong interest in DevOps and cloud technologies.
+I like working on real systems — setting up servers, deploying applications, and automating workflows.
+
+My focus is not just learning tools, but understanding how everything connects together in a real environment — from code to deployment.
+
+I have hands-on experience with containers, CI/CD pipelines, and basic cloud infrastructure.
+Currently, I am building projects to improve my practical skills and move towards production-level systems.
 
 ---
 
@@ -19,15 +24,15 @@ Interested in automation, cloud, and deployment workflows.
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge\&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 
 </div>
 
@@ -35,18 +40,27 @@ Interested in automation, cloud, and deployment workflows.
 
 ## 📦 Projects
 
-<div align="center">
+### 🔹 Core DevOps Work
 
-![Linux Server](https://img.shields.io/badge/Linux_Server_Setup-Automation-blue?style=for-the-badge)
-![Git Workflow](https://img.shields.io/badge/Git_Workflow-Team_Collab-orange?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Multi_Container_App-2496ED?style=for-the-badge\&logo=docker)
-![Nginx](https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=for-the-badge\&logo=nginx)
-![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions_|_Jenkins-red?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-EC2_|_S3_|_IAM_|_VPC-232F3E?style=for-the-badge\&logo=amazonaws)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Kind_Cluster-326CE5?style=for-the-badge\&logo=kubernetes)
-![Apps](https://img.shields.io/badge/Apps-Notes_+_Task_Manager-purple?style=for-the-badge)
+* **Linux Server Setup & Automation**
+* **Git Workflow (Team Collaboration Simulation)**
+* **Docker & Docker Compose (Multi-container setup)**
+* **Nginx (Web Server + Reverse Proxy)**
 
-</div>
+---
+
+### 🔹 CI/CD & Cloud
+
+* **CI Pipelines (GitHub Actions & Jenkins)**
+* **AWS Basics (EC2, S3, IAM, VPC)**
+* **Kubernetes (Kind Cluster + Deployments)**
+
+---
+
+### 🔹 Applications
+
+* **Static Task Manager**
+* **Notes App**
 
 ---
 
@@ -61,9 +75,9 @@ Interested in automation, cloud, and deployment workflows.
 
 ## 🎯 Current Focus
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-blue?style=for-the-badge\&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-Deep_Dive-623CE4?style=for-the-badge\&logo=terraform)
-![DevOps](https://img.shields.io/badge/DevOps-Real_Projects-black?style=for-the-badge)
+* Improving Kubernetes for real-world usage
+* Writing better and cleaner automation
+* Understanding system design and infrastructure
 
 ---
 
