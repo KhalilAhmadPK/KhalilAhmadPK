@@ -74,6 +74,7 @@ Currently, I am building projects to improve my practical skills and move toward
 
 * **Static Task Manager**
 * **Notes App**
+* **linksnap**
 
 ---
 
@@ -81,6 +82,7 @@ Currently, I am building projects to improve my practical skills and move toward
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhalilAhmadPK&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </div>
 
 ---
@@ -109,3 +111,4 @@ Currently, I am building projects to improve my practical skills and move toward
 💡 *Learning DevOps by building real systems*
 
 </div>
+
