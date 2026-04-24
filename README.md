@@ -24,13 +24,19 @@ Currently, I am building projects to improve my practical skills and move toward
 
 <div align="center">
 
+<!-- Row 1 -->
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55" height="55"/>     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" height="55"/>     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" height="55"/>     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55" height="55"/>
 
 <br><br>
 
+<!-- Row 2 -->
+
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="55" height="55"/>     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="55" height="55"/>     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="55" height="55"/>     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="55" height="55"/>
 
 <br><br>
+
+<!-- Row 3 -->
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" height="55"/>
 
