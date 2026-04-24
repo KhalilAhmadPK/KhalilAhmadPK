@@ -30,8 +30,9 @@ Currently, I am building projects to improve my practical skills and move toward
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/></td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg#gh-light-mode-only" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg#gh-dark-mode-only" width="55" style="filter: invert(1);"/>
-</td><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55"/></td>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg#gh-dark-mode-only" width="55" style="fill:white;"/>
+</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55"/></td>
 </tr>
 
 <tr>
@@ -84,7 +85,7 @@ Currently, I am building projects to improve my practical skills and move toward
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhalilAhmadPK&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilAhmadPK&layout=compact&theme=tokyonight&hide_border=true&hide=dart&cache_seconds=1" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilAhmadPK&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1" height="165">
 </div>
 
 ---
