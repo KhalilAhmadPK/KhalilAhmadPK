@@ -29,8 +29,13 @@ Currently, I am building projects to improve my practical skills and move toward
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55"/></td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/></td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg#gh-light-mode-only" width="55"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github-white.svg#gh-dark-mode-only" width="55"/>
+
+<!-- Light mode -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg#gh-light-mode-only" width="55"/>
+
+<!-- Dark mode (white version) -->
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg#gh-dark-mode-only" width="55"/>
+
 </td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55"/></td>
 </tr>
