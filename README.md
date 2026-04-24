@@ -88,8 +88,6 @@ Currently, I am building projects to improve my practical skills and move toward
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilAhmadPK&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1" height="165">
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KhalilAhmadPK&theme=tokyonight)](https://git.io/streak-stats)
-
 ---
 
 ## 🎯 Current Focus
